@@ -12,7 +12,7 @@ An image is processed using both CPU and GPU, and the execution time is compared
 CuPy is used to perform operations on the GPU using CUDA.
 
 
-## ⚙️eps
+## Steps
 
 1. Upload the input image  
 2. Load the image using OpenCV  
