@@ -1,7 +1,6 @@
 # gpu-vision-project
 
 # GPU Accelerated Image Processing using CUDA (Colab + CuPy)
-
 ## Aim
 To implement image processing techniques using GPU acceleration and compare the performance with CPU execution.
 
@@ -46,5 +45,3 @@ This shows that GPU computing is efficient for large-scale image processing task
 
 
 
-## 👩‍💻 Author
-Your Name
